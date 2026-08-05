@@ -1,0 +1,9 @@
+# default owner for everything
+*                       @katar-1
+
+# service-specific owners
+/backend/               @katar-1
+/frontend/              @spindev-copilot
+
+# CI/CD and repo configuration
+/.github/               @spindev
